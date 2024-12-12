@@ -59,7 +59,7 @@ The **Stock Price Predictor** is a machine learning-based project designed to pr
 
 ## Key Findings
 
-<img src="Analysis.png" width="400" height="200" alt="Analysis Picture">
+<img src="Analysis.png" width="400" height="170" alt="Analysis Picture">
 
 - **Best Model**: Gradient Boosting with rolling mean/std transformations.
 - **Worst Model**: LSTM due to high computational cost and shifted predictions.
