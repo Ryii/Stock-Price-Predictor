@@ -85,4 +85,4 @@ The **Stock Price Predictor** is a machine learning-based project designed to pr
 ## License
 
 Copyright © 2024 [Ryan Sun] (https://github.com/Ryii).<br />
-This project is [MIT](https://github.com/Ryii/Options-Trading-Analysis/blob/main/LICENSE.md) licensed.
+This project is [MIT](https://github.com/Ryii/Stock-Price-Predictor/blob/main/LICENSE.md) licensed.
