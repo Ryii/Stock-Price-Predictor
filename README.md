@@ -80,7 +80,6 @@ The **Stock Price Predictor** is a machine learning-based project designed to pr
    - `Data_Collection.ipynb`
    - `Data_Exploration.ipynb`
    - Model notebooks (`ARIMA.ipynb`, `Random_Forest.ipynb`, `XGBoosts.ipynb`, `RNN.ipynb`, `LSTM.ipynb`)
-4. Review model performance comparisons in the included `Report.pptx`.
 
 ## License
 
